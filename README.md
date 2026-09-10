@@ -4,4 +4,4 @@ Second image is the side view of the drone frame with the added battery holder i
 
 Third image is the top view of the fully assembled drone.
 
-Forth image is the bottom view of the fully assembled drone with the added battery holder. 
+Fourth image is the bottom view of the fully assembled drone with the added battery holder. 
