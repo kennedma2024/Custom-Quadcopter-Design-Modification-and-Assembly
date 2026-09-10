@@ -1,6 +1,6 @@
 First image is the top view of the drone frame with the added battery holder in SOLIDWORKS.
 
-Second image is the top view of the drone frame with the added battery holder in SOLIDWORKS.
+Second image is the side view of the drone frame with the added battery holder in SOLIDWORKS.
 
 Third image is the top view of the fully assembled drone.
 
